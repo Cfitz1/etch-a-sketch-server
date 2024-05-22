@@ -1,0 +1,12 @@
+--2024-05-21 21:00:30--  https://raw.githubusercontent.com/sameer/svg2gcode/main/examples/moore.svg
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.109.133, 185.199.110.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64975 (63K) [image/svg+xml]
+Saving to: ‘moore.svg.4’
+
+     0K .......... .......... .......... .......... .......... 78% 1.98M 0s
+    50K .......... ...                                        100%  168M=0.02s
+
+2024-05-21 21:00:31 (2.50 MB/s) - ‘moore.svg.4’ saved [64975/64975]
+
