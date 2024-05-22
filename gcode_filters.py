@@ -403,6 +403,7 @@ class TSPOptimizer(GCodeFilter):
         Returns:
             Path: Path to the processed GCode file, ready for the next step in the pipeline
         """
+        print(f"Processing file: {}", gcode_path)
         super().process(gcode_path, output_path)
 
         # Construct the command to run the optimizer
