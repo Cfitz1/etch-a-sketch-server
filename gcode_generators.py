@@ -37,7 +37,7 @@ class Svg2GcodeGenerator(GCodeGenerator):
     https://github.com/sameer/svg2gcode.git
     """
 
-    SVG2GCODE_PATH = "~/efr/svg2gcode/Cargo.toml"
+    SVG2GCODE_PATH = "~/cfitz/Tracer/svg2gcode/Cargo.toml"
 
     def __init__(
         self,

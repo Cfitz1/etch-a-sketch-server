@@ -387,7 +387,7 @@ class TSPOptimizer(GCodeFilter):
     solver must be installed on the system and available in the PATH.
     """
 
-    OPTIMIZER_PATH = "~/efr/gcode-optimizer/main.py"
+    OPTIMIZER_PATH = "~/Tracer/etch-a-sketch-server/deps/gcode-optimizer/main.py" #"~/efr/gcode-optimizer/main.py"
 
     def __init__(self):
         """Initialize the TSPOptimizer."""
